@@ -1,0 +1,9 @@
+battery:0.43256 charge:0.30860 life:0.21779 charger:0.16951 charging:0.14788 
+ear:0.26119 fit:0.18426 comfortable:0.09468 bud:0.05638 feel:0.04533 
+phone:0.10506 range:0.09451 easy:0.09412 easily:0.07837 galaxy:0.06761 
+week:0.12591 long:0.11932 month:0.08831 durable:0.08788 sweat:0.08788 
+easy:0.25429 control:0.11792 button:0.10442 simple:0.06878 setup:0.06406 
+look:1.43657 appearance:0.53950 hs850:0.43328 nice:0.43328 earpiece:0.37242 
+really:0.01441 product:0.01345 work:0.01325 headset:0.01243 motorola:0.00967 
+price:0.52604 great:0.14857 cost:0.14828 pretty:0.10296 inexpensive:0.09391 
+sound:0.12012 quality:0.07278 hear:0.06259 noise:0.05349 volume:0.04367 

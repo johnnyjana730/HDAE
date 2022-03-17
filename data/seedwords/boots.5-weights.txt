@@ -1,0 +1,9 @@
+color:1.33468 love:0.38767 style:0.30434 unbelievably:0.21561 gorgeous:0.21561 
+comfortable:0.08518 fit:0.05348 foot:0.03805 hurt:0.02895 ankle:0.02523 
+rubber:0.17371 quality:0.13118 use:0.10618 buckle:0.10618 appear:0.10618 
+cute:0.23953 look:0.13356 looked:0.10953 great:0.10000 fringe:0.08656 
+leather:0.14127 inside:0.08806 fringe:0.08806 material:0.07461 heel:0.07215 
+return:0.01880 pair:0.01479 thought:0.01479 year:0.01047 boot:0.00838 
+worth:0.66633 money:0.66633 cheap:0.41029 inexpensive:0.41029 paid:0.41029 
+size:0.29535 ordered:0.14448 half:0.12187 order:0.07586 big:0.07327 
+dry:0.12491 waterproof:0.12491 rain:0.10321 wet:0.10321 water:0.10321 

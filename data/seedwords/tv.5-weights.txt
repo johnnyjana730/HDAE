@@ -1,0 +1,9 @@
+netflix:0.28723 user:0.18263 file:0.17932 hulu:0.17187 apps:0.17187 
+hdmi:0.11444 port:0.09427 computer:0.07500 input:0.06888 component:0.06347 
+paid:0.07751 support:0.07751 service:0.06645 week:0.06645 replacement:0.05821 
+easy:0.15725 channel:0.13681 remote:0.12596 setup:0.10479 feature:0.09300 
+picture:0.16772 color:0.08145 quality:0.03959 black:0.03511 bright:0.03456 
+tv:0.01796 bought:0.01211 year:0.01078 hdtv:0.00731 happy:0.00731 
+price:0.40986 value:0.16477 money:0.14603 1500:0.08944 worth:0.07380 
+size:0.22710 big:0.16846 bigger:0.13213 40:0.11357 difference:0.10808 
+sound:0.43835 speaker:0.10404 good:0.06519 quality:0.06201 loud:0.05845 

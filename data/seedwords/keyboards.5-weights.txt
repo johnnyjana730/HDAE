@@ -1,0 +1,9 @@
+working:0.09108 build:0.05849 stopped:0.05849 quality:0.05254 month:0.04321 
+port:0.12597 connection:0.10783 log:0.09889 computer:0.08093 serial:0.06593 
+button:0.12066 light:0.10858 pencil:0.08801 volume:0.07791 power:0.07200 
+feel:0.16715 comfortable:0.06932 mushy:0.03812 key:0.03522 like:0.03419 
+key:0.13825 delete:0.07495 backspace:0.06686 size:0.06408 layout:0.06186 
+look:1.00074 slim:0.53476 original:0.26455 appearance:0.20408 lttle:0.20408 
+loud:0.20677 noise:0.17870 noisy:0.17870 quiet:0.15644 action:0.12470 
+think:0.00855 recommend:0.00751 purchase:0.00751 using:0.00692 unit:0.00530 
+price:0.46168 cheap:0.08250 going:0.07499 dollar:0.06395 buy:0.06395 

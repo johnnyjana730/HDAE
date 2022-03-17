@@ -1,0 +1,9 @@
+pocket:0.27492 cable:0.07886 compartment:0.07886 outside:0.06693 lot:0.06497 
+hassle:0.56060 return:0.50009 unable:0.34497 christmas:0.34497 difficult:0.34497 
+strap:0.35830 handle:0.24750 shoulder:0.17618 broke:0.11457 later:0.08923 
+look:0.17887 color:0.12356 pink:0.09624 stylish:0.07948 looked:0.07948 
+recommend:0.01314 bought:0.01198 used:0.01109 hard:0.01033 bag:0.00956 
+price:0.83874 worth:0.22102 pay:0.18621 good:0.15745 great:0.13023 
+protection:0.26889 padding:0.22648 protects:0.17297 protect:0.12082 drop:0.12082 
+quality:0.12143 material:0.07692 handle:0.05216 poor:0.04539 broke:0.04279 
+fit:0.20285 size:0.05379 macbook:0.04771 big:0.04260 space:0.03996 
